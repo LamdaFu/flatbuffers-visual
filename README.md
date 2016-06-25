@@ -9,5 +9,7 @@ Basically, for the node.js app it would enable visual editing of flatbuffer sche
 * Ability to copy and paste schema definitions in and out of the tool as a substitute for using files.
 
 ## Usage Instructions
-1. Run `npm start` to start the hot reload server.
-2. Go to `localhost:3000` to view the app.
+1. Install Node 5+
+2. Run `npm install webpack -g` (or `sudo npm install webpack -g`)
+3. Run `npm start` to start the hot reload server.
+4. Go to `localhost:3000` to view the app.
