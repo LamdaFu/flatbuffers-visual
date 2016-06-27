@@ -1,7 +1,6 @@
-# flatbuffers-visual
 ## Flatbuffer visual editor and testing framework.  
 
-Basically, for the node.js app it would enable visual editing of flatbuffer schemas locally as well as on a server. The basic features would be as follows:
+node.js app to enable visual editing of flatbuffer schemas locally as well as on a server. The basic features:
 
 * Complete visual editing of multi-layered flatbuffer schemas with pull down lists for supported data types, support for nested types, etc..
 * Ability to export a schema file from a visual definition.
